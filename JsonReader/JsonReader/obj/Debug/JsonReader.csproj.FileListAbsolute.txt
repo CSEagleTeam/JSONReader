@@ -1,0 +1,8 @@
+D:\Projects\JsonReader\JsonReader\bin\Debug\JsonReader.exe.config
+D:\Projects\JsonReader\JsonReader\bin\Debug\JsonReader.exe
+D:\Projects\JsonReader\JsonReader\bin\Debug\JsonReader.pdb
+D:\Projects\JsonReader\JsonReader\obj\Debug\JsonReader.csprojResolveAssemblyReference.cache
+D:\Projects\JsonReader\JsonReader\obj\Debug\JsonReader.exe
+D:\Projects\JsonReader\JsonReader\obj\Debug\JsonReader.pdb
+D:\Projects\JsonReader\JsonReader\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\JsonReader\JsonReader\bin\Debug\Newtonsoft.Json.xml
